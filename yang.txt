@@ -7,3 +7,4 @@ master999
 1010101010
 select * from book;
 delete from book where id=1;
+I want to open air conditioning
