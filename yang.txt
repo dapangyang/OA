@@ -5,3 +5,4 @@ buluochag
 999999999
 1010101010
 select * from book;
+delete from book where id=1;
